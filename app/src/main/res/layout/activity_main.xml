@@ -59,7 +59,8 @@
                 android:textColorHighlight="#3F51B5"
                 android:textColorLink="#03A9F4"
                 android:textSize="20sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                tools:ignore="ExtraText" />
 
 
             <TextView
