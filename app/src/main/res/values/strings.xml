@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Readers Hub</string>
+    <string name="aboutReading">Reading is the process of taking in the sense or meaning of letters, symbols, etc., especially by sight or touch.[1][2][3][4]
+
+For educators and researchers, reading is a multifaceted process involving such areas as word recognition, orthography (spelling), alphabetics, phonics, phonemic awareness, vocabulary, comprehension, fluency, and motivation.[5][6]
+
+Other types of reading and writing, such as pictograms (e.g., a hazard symbol and an emoji), are not based on speech-based writing systems.[7] The common link is the interpretation of symbols to extract the meaning from the visual notations or tactile signals (as in the case of braille)
+    </string>
+
+        <string name="overview">
+
+            Reading is typically an individual activity, done silently, although on occasion a person reads out loud for other listeners; or reads aloud for one's own use, for better comprehension. Before the reintroduction of separated text (spaces between words) in the late Middle Ages, the ability to read silently was considered rather remarkable.[10][11]
+
+Major predictors of an individual's ability to read both alphabetic and non-alphabetic scripts are oral language skills,[12] phonological awareness, rapid automatized naming and verbal IQ.[13]
+
+As a leisure activity, children and adults read because it is pleasant and interesting. In the US, about half of all adults read one or more books for pleasure each year.[14] About 5% read more than 50 books per year.[14] Americans read more if they: have more education, read fluently and easily, are female, live in cities, and have higher socioeconomic status.[14] Children become better readers when they know more about the world in general, and when they perceive reading as fun rather than another chore to be performed.
+
+        </string>
+
+    <string name="readingVsLiteracy">
+
+        Reading is an essential part of literacy, yet from a historical perspective literacy is about having the ability to both read and write.[15][16][17][18]
+
+And, since the 1990s some organizations have defined literacy in a wide variety of ways that may go beyond the traditional ability to read and write. The following are some examples:
+
+"the ability to read and write ... in all media (print or electronic), including digital literacy"[19]
+"the ability to ... understand ... using printed and written materials associated with varying contexts"[20][21][22]
+"the ability to read, write, speak and listen"[23]
+"having the skills to be able to read, write and speak to understand and create meaning"[24]
+"the ability to ... communicate using visual, audible, and digital materials"[25][26]
+"the ability to use printed and written information to function in society, to achieve one's goals, and to develop one's knowledge and potential".[27] It includes three types of adult literacy: prose (e.g., a newspaper article), documents (e.g., a bus schedule), and quantitative literacy (e.g., using arithmetic operations a in product advertisement).[28][29]
+In the academic field, some view literacy in a more philosophical manner and propose the concept of "multiliteracies". For example, they say, "this huge shift from traditional print-based literacy to 21st century multiliteracies reflects the impact of communication technologies and multimedia on the evolving nature of texts, as well as the skills and dispositions associated with the consumption, production, evaluation, and distribution of those texts (Borsheim, Meritt, Reed, 2008, p. 87)".[30][31] According to cognitive neuroscientist Mark Seidenberg these "multiple literacies" have allowed educators to change the topic from reading and writing to "Literacy". He goes on to say that some educators, when faced with criticisms of how reading is taught, "didn't alter their practices, they changed the subject".[32]
+
+Also, some organizations might include numeracy skills and technology skills separately but alongside of literacy skills.
+    </string>
+
+</resources>
